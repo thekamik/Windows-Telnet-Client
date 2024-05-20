@@ -1,7 +1,4 @@
 # Windows-Telnet-Client
-Basic Telnet Client for Windows
-
-# Basic Telnet Client
 
 This project was created to demonstrate basic Windows socket client functionality. It provides a simple, non-secure Telnet client implemented in C++.
 
